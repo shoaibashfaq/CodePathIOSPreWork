@@ -40,3 +40,21 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+##App BrainStorming
+
+
+1. Reddit
+      - The longform (unlike twitter) content is intrigiuing and fun to read.
+      - The anonymous nature of the users allows for authentic and unfiltered discussions to take place. 
+2. Instagram: 
+      - Reels: I find the content short and amusing
+      - Photography: Instagram is sepcifically tailored for photography.
+3. Snapchat
+      - Live Location: Really interesting to see where my family and friends are and what they're up to.
+      - Snap Streaks: Wholesome streaks keeps me updated about my friends and family. Its fun to compete on who has the longest streaks.
+
+
+
+
