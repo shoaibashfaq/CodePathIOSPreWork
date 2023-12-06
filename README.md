@@ -2,7 +2,7 @@
 
 Submitted by: Muhammed Ashfaq
 
-Code Path IOS PreWork is an app that shows my basic information and arbitrarly changes the background color.
+Code Path IOS PreWork is an app that shows my basic information and upon clicking a button arbitrarily changes the background color.
 
 Time spent: 2 hours spent in total
 
